@@ -24,6 +24,7 @@ public class PracticeProblem {
 		System.out.print("In: ");
         Scanner sc = new Scanner(System.in);
         int number1 = sc.nextInt();
+		System.out.print("In: ");
         int number2 = sc.nextInt();
         System.out.println(number1/number2);
         System.out.println(number1%number2);
